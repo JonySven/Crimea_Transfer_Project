@@ -1,0 +1,26 @@
+.menu{
+    background-color: #FEE405;
+    padding: 25px;
+    Width: 352px;
+    Height: 200px;
+    margin: 0 auto;
+}
+.nav{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+
+}
+.nav a{
+    text-transform: uppercase;
+    color: black;
+    font-family: "Roboto";
+    font-weight: 900;
+    text-decoration: none;
+    margin-bottom: 17px;
+        
+    
+        
+}

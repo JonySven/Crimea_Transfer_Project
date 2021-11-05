@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss"],"names":[],"mappings":"AAAA;EACI;EACA;;AACA;EACI;EACA;EACA","file":"main.css","sourcesContent":["a{\r\n    color: #444;\r\n    font-size: 12px;\r\n    &:hover{\r\n        background: #555;\r\n        height: 50px;\r\n        width: 10px;\r\n\r\n    }\r\n}"]}

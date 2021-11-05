@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-watch": "^5.0.1",
+    "gulp4": "^4.0.2",
+    "node-sass": "^6.0.1"
+  },
+  "name": "crimea_transfer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Imanov Evgeniy",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "gulp-sass": "^5.0.0",
+    "gulp-scss": "^1.4.0",
+    "sass": "^1.43.4",
+    "scss": "^0.2.4"
+  }
+}

@@ -1,0 +1,19 @@
+footer{
+    max-width: 350px;
+    margin: 0 auto;
+}
+.footer-wrap{
+    background-color: #828282;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px 20px;
+}
+.footer-wrap p{
+    font-family: "Roboto";
+    font-weight: 400;
+    font-size: 9px;
+    text-align: end;
+    line-height: 1.5;
+}
